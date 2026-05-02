@@ -2,7 +2,7 @@
 👋 I'm a Computer Science Engineering student focused on building practical, efficient systems.
 
 - 🎓 3rd-year B.Tech CSE student
-- 💻 Interested in problem solving, algorithms, and core CS concepts
+- 💻 Interested in problem solving, algorithms, and core CS concepts 
 - ⚙️ Currently working on strengthening DSA and system-level understanding
 - 🚀 Goal: Become a strong software engineer with solid fundamentals, not just framework knowledge
 
