@@ -9,6 +9,7 @@
 - Languages: C, Java / Python 
 - Tools: Git, GitHub, VS Code
 
+
 ## 📌 Mindset
 I focus on clarity, fundamentals, and long-term skill building over shortcuts.
 
