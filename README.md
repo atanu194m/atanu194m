@@ -1,5 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
+
 <h1 align="center">Hi 👋, I'm Atanu Maity 👋</h1> <div align="center"> <ul style="list-style-position: inside; display: inline-block; text-align: left;"> <li>🎓 3rd-year B.Tech CSE student</li> <li>💻 Interested in problem solving, algorithms, and core CS concepts</li> <li>⚙️ Currently strengthening DSA and system-level understanding</li> <li>🛠️ Focused on building practical and efficient systems</li> <li>🚀 Goal: Become a strong software engineer with solid fundamentals, not just framework knowledge</li> </ul> </div>
 <img src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif" alt="coding" align="right" width ="400">
 
